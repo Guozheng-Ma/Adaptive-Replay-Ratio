@@ -1,6 +1,29 @@
-# **Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages**
+<p align="center">
 
-This code is for the paper titled ***Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages***.
+  <h1 align="center">Adaptive&nbsp;Replay&nbsp;Ratio</h1>
+<h2 align="center"><a href="https://arxiv.org/abs/2310.07418">Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages</a></h2>
+  <p align="center">
+    <a><strong>Guozheng Ma*</strong></a>
+    ·
+    <a><strong>Lu Li*</strong></a>
+    ·
+    <a><strong>Sen Zhang</strong></a>
+    ·
+    <a><strong>Zixuan Liu</strong></a>
+    ·
+    <a><strong>Zhen Wang</strong></a>
+    ·
+    <a><strong>Yixin Chen</strong></a>
+    ·
+    <a><strong>Li Shen</strong></a>
+    ·
+    <a><strong>Xueqian Wang</strong></a>
+    ·
+    <a><strong>DaCheng Tao</strong></a>
+  </p>
+
+</p>
+
 
 ## Setup
 
