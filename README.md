@@ -26,8 +26,12 @@
 </p>
 
 <div align="center">
-  <img src="Figures/ARR.png" alt="main" width="100%">
+  <img src="Figures/ARR.png" alt="main" width="90%">
 </div>
+
+>Initially, a low RR is adopted to prevent catastrophic plasticity loss. In later training stages, RR can be raised to boost reuse frequency, as the plasticity dynamics become benign. This balance allows us to sidestep early high RR drawbacks and later harness the enhanced sample efficiency from greater reuse frequency.
+>
+>Furthermore, the FAU of critic module can be employed adaptively to identify the current training stage. Once the critic’s FAU has recovered to a satisfactory level, it indicates the agent has moved beyond the early training phase prone to catastrophic plasticity loss, allowing for an increase in the RR value.
 
 <div align="center">
   <img src="Figures/FAU_ARR_QR.png" alt="main" width="100%">
