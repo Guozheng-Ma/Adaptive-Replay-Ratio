@@ -26,6 +26,10 @@
 </p>
 
 <div align="center">
+  <img src="Figures/ARR.png" alt="main" width="100%">
+</div>
+
+<div align="center">
   <img src="Figures/FAU_ARR_QR.png" alt="main" width="100%">
 </div>
 
