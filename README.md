@@ -1,7 +1,7 @@
 <p align="center">
 
-  <h1 align="center">Adaptive&nbsp;Replay&nbsp;Ratio</h1>
-<h2 align="center"><a href="https://arxiv.org/abs/2310.07418">Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages</a></h2>
+  <h1 align="center">Adaptive Replay Ratio Implementation on DMC</h1>
+  <h2 align="center"><a href="https://arxiv.org/abs/2310.07418">Revisiting Plasticity in Visual RL: Data, Modules and Training Stages</a></h2>
   <p align="center">
     <a><strong>Guozheng Ma*</strong></a>
     ·
@@ -12,7 +12,8 @@
     <a><strong>Zixuan Liu</strong></a>
     ·
     <a><strong>Zhen Wang</strong></a>
-    ·
+  </p>
+  <p align="center">
     <a><strong>Yixin Chen</strong></a>
     ·
     <a><strong>Li Shen</strong></a>
