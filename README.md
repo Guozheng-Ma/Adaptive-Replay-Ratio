@@ -62,9 +62,16 @@ Train DrQ-v2 agent with **Adaptive Replay Ratio(Our method)**:
 bash train_adapt_rr.sh
 ```
 
-Train DrQ-v2 agent, you can customize replay ratio by adjusting *replay ratio* and *agent.update_every_steps*:
+## 📝 Citation
+If this repository is useful to you, please consider citing our paper:
+```
+@article{ma2023revisiting,
+  title={Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages},
+  author={Ma, Guozheng and Li, Lu and Zhang, Sen and Liu, Zixuan and Wang, Zhen and Chen, Yixin and Shen, Li and Wang, Xueqian and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2310.07418},
+  year={2023}
+}
+```
 
-```
-bash train.sh
-```
+
 
