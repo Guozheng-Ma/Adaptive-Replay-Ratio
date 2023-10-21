@@ -73,5 +73,7 @@ If this repository is useful to you, please consider citing our paper:
 }
 ```
 
+## 🙏 Acknowledgements
 
+We would like to thank Denis Yarats for open-sourcing the [DrQv2 codebase](https://github.com/facebookresearch/drqv2). Our implementation builds on top of their repository.
 
