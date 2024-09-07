@@ -1,4 +1,4 @@
-task=cheetah_run
+task=quadruped_run
 seed=1
 dir="./exp_local_adaptive_rr/${task}/aug_True/seed${seed}"
 
