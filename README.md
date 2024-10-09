@@ -73,11 +73,13 @@ bash train_adapt_rr.sh
 ## 📝 Citation
 If this repository is useful to you, please consider citing our paper:
 ```
-@article{ma2023revisiting,
+@inproceedings{
+  ma2024revisiting,
   title={Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages},
-  author={Ma, Guozheng and Li, Lu and Zhang, Sen and Liu, Zixuan and Wang, Zhen and Chen, Yixin and Shen, Li and Wang, Xueqian and Tao, Dacheng},
-  journal={arXiv preprint arXiv:2310.07418},
-  year={2023}
+  author={Guozheng Ma and Lu Li and Sen Zhang and Zixuan Liu and Zhen Wang and Yixin Chen and Li Shen and Xueqian Wang and Dacheng Tao},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024},
+  url={https://openreview.net/forum?id=0aR1s9YxoL}
 }
 ```
 
